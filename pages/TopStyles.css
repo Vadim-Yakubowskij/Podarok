@@ -1,0 +1,14 @@
+main{
+    width: auto;
+    height: auto;
+    overflow: hidden;
+    background-image: url("img\\fon.jpg");
+}
+.card{
+    margin-left: 32%;
+    margin-top: 20px;
+}
+footer{
+    position:absolute;
+    width: 100%;
+}
