@@ -1,0 +1,10 @@
+.why{
+    margin-top: 30%;
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+    background-color: black;
+}
